@@ -1,0 +1,10 @@
+# Gril recepty Hub
+> A modern tech logistics resource based in New York, NY.
+
+## Site Index
+- [Home Page](/index.html): Portal overview for our services.
+- [About Us](/about.html): Our background and history.
+- [Contact](/contact.html): Office locations and communication form.
+## Publications
+- [Kulinářské triky: Kontaktní gril a recepty, které musíte zkusit](/kulinarske-triky-kontaktni-gril-a-recepty-ktere-musite-zkusit.html)
+- [Sýr Halloumi na grilu: Jak na to](/syr-halloumi-na-grilu-jak-na-to.html)
